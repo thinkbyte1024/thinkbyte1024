@@ -1,7 +1,7 @@
 # A short introduction
 Hello there, welcome to my profile. You may know my name from the left side of the profile (or above if you're on mobile), so I won't rewrite my name here. (I usually go with **thinkbyte1024** or **ccoremapd** as my username)
 
-I usually interested in backend stuff or mostly under the hood stuff like systems programming, game development and more. Currently I'm learning **Swift** because the syntax were nice and it's my personal preference in learning how to code. I've also tried other languages such as **Go**, **Rust** and (probably my next plan to study) **C++**. Most of them are still on amateur level, so expect janky and spaghetti code while I'm writing on it.
+I usually interested in backend stuff or mostly under the hood stuff like systems programming, game development and more. Currently I'm learning **Swift** because the syntax were nice and it's my personal preference in learning how to code. I've also wanted to try to learn some other languages such as **Go**, **Rust** and (probably my next plan to study) **C++**. Most of them are still on amateur level, so expect janky and spaghetti code while I'm writing on it.
 
 Anyway, hope this introduction will get to know me better. 
 
