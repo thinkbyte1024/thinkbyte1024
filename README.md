@@ -9,6 +9,6 @@ Be kind, and have a nice day. :-)
 
 ## My current plan (I'll keep this updated whenever I can)
 
-- Currently I'm planning to build my personal page using **Github Pages** and **Hugo** as my framework. But, due to other things that needed to be done such as college assignments, things might get delayed as I'm still struggle with managing my time at this moment. Please, be patient. :-)
+- Currently I'm planning to build my personal page using **Github Pages** and **Hugo** as my framework. Things might get delayed as I'm still struggle with managing my time at this moment. Please, be patient. :-)
 
 - I also plan to create a safe contact such as providing a **GPG key** to my email and more. That way you can contact me in a safer way and be able to verify my identity.
